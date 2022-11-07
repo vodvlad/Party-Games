@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/TrueOrFalse/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2555" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/TrueOrFalse/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.182" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/TrueOrFalse/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.2" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/TrueOrFalse/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2555" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/TrueOrFalse/app/src/main/res/drawable/icons8_add.xml" value="0.2555" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/TrueOrFalse/app/src/main/res/drawable/icons8_game_controller_2.xml" value="0.2555" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/TrueOrFalse/app/src/main/res/drawable/icons8_home_page.xml" value="0.2555" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/TrueOrFalse/app/src/main/res/drawable/icons8_language.xml" value="0.2555" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/TrueOrFalse/app/src/main/res/drawable/icons8_settings.xml" value="0.2555" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/TrueOrFalse/app/src/main/res/drawable/icons8_true_corporation.xml" value="0.2555" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/TrueOrFalse/app/src/main/res/drawable/icons8_undo.xml" value="0.182" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/TrueOrFalse/app/src/main/res/layout/activity_games.xml" value="0.264" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/TrueOrFalse/app/src/main/res/layout/activity_language.xml" value="0.264" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/TrueOrFalse/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/TrueOrFalse/app/src/main/res/layout/activity_main2.xml" value="0.1921875" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/TrueOrFalse/app/src/main/res/layout/activity_tr_or_false.xml" value="0.136" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/TrueOrFalse/app/src/main/res/layout/fragment_dashboard.xml" value="0.1921875" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/TrueOrFalse/app/src/main/res/layout/fragment_home.xml" value="0.1921875" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/TrueOrFalse/app/src/main/res/layout/fragment_notifications.xml" value="0.1921875" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/TrueOrFalse/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1921875" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/TrueOrFalse/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.121" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/TrueOrFalse/app/src/main/res/xml/bottom_navigation_menu.xml" value="0.1921875" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/partygames/app/src/main/res/drawable/icons8_a.xml" value="0.1455" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/partygames/app/src/main/res/drawable/icons8_account.xml" value="0.121" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/partygames/app/src/main/res/drawable/icons8_add.xml" value="0.121" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/partygames/app/src/main/res/drawable/icons8_female_user.xml" value="0.1755" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/partygames/app/src/main/res/drawable/icons8_game_controller_2.xml" value="0.1455" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/partygames/app/src/main/res/drawable/icons8_great_britain.xml" value="0.121" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/partygames/app/src/main/res/drawable/icons8_katakana_a.xml" value="0.1455" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/partygames/app/src/main/res/drawable/icons8_russian_federation.xml" value="0.121" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/partygames/app/src/main/res/drawable/icons8_true_corporation.xml" value="0.1455" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/partygames/app/src/main/res/layout/activity_alias.xml" value="0.264" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/partygames/app/src/main/res/layout/activity_anim_test.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/partygames/app/src/main/res/layout/activity_cards.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/partygames/app/src/main/res/layout/activity_games.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/partygames/app/src/main/res/layout/activity_hot_potatoe.xml" value="0.22146739130434784" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/partygames/app/src/main/res/layout/activity_language.xml" value="0.1734375" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/partygames/app/src/main/res/layout/activity_main.xml" value="0.1734375" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/partygames/app/src/main/res/layout/activity_tr_or_false.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/partygames/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.121" />
+        <entry key="..\:/Users/vodvl/AndroidStudioProjects/partygames/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.121" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

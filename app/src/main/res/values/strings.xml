@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Party Games</string>
+    <string name="games">Games</string>
+    <string name="language_translation">language translation</string>
+    <string name="settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="add_player">add player</string>
+    <string name="who_s_playing">Who\'s playing?</string>
+    <string name="truth">Truth</string>
+    <string name="dare">Dare</string>
+    <string name="start">Start</string>
+    <string name="true_or_false">True or False</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="done">Done</string>
+    <string name="choose_true">Choose True or Dare!</string>
+    <string name="y_need_to_add_player">You need to add players</string>
+    <string name="rules">"Truth or Dare?" If the player answers: "True", then he will have to truthfully answer the question. If he chooses an action, he will have to complete the task.</string>
+    <string name="choose_language">Choose language:</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="redTeam">Red team</string>
+    <string name="blueTeam">Blue team</string>
+    <string name="alias">Alias</string>
+
+</resources>
