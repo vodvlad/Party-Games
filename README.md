@@ -1,4 +1,4 @@
-# Party Games
+# Party Games. Android application in Java language.  
 
 ![studio64_m8mZ5V8g5z](https://user-images.githubusercontent.com/20659925/200305542-0f97167c-bcff-4524-a53b-e8d506281624.gif)
   
